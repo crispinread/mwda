@@ -131,8 +131,9 @@ html {
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-family: "Arimo", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
   color: #222; }
 
 
@@ -381,6 +382,8 @@ form {
 /* Mailchimp
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #mc_embed_signup{
+  color: white;
+
    
 }
 
@@ -393,7 +396,7 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 .first{
-  margin-top: 15%;
+  margin-top: 10%;
   text-align: center;
   color: white;
 }
