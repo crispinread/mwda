@@ -383,8 +383,10 @@ form {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 #mc_embed_signup{
   color: white;
+}
 
-   
+#mc_embed_signup input{
+  color: #269
 }
 
 /* Misc
