@@ -381,7 +381,7 @@ form {
 
 /* Mailchimp
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-#mc_embed_signup{
+#mc_embed_signup, #mc_embed_signup #mce-success-response{
   color: white;
 }
 
