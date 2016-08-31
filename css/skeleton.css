@@ -437,7 +437,7 @@ hr {
       content: "";
   display: block;
   height: 100%;
-  /*position: absolute;*/
+  position: absolute;
   top: 0;
   left: 0;
   right: 0;
@@ -454,6 +454,7 @@ hr {
     background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
     background-blend-mode: overlay;
     mix-blend-mode: overlay;
+    z-index: -99;
 
 }
 
