@@ -496,6 +496,9 @@ hr {
     width: 200px;
     height: 213px;
 }
+.mcr2016 .container::after{
+  background-image: none;
+}
 }
 
 .container{
