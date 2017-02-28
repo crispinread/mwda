@@ -32,3 +32,15 @@
 .thumb-info .thumb-info-title {
 	bottom: 1%;
 }
+
+.counters .fa, .counters .icons {
+	font-size:80px;
+	line-height: 90px
+}
+
+.counters strong {
+    display: block;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 50px;
+} 
